@@ -1,0 +1,12 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "gql": "go get github.com/99designs/gqlgen && go run github.com/99designs/gqlgen generate",
+    "dev":"go run ./src/cmd/server.go"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
